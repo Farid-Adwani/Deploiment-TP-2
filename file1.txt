@@ -2,5 +2,11 @@ text 1 branch feature/ma-nouvelle-fonctionnalite
 
 main branch modif
 modification branch 
-main
-hotfix
+other feature hotfix
+main	modif
+
+dev
+test
+
+
+modif on otherFeat
