@@ -9,4 +9,4 @@ dev
 test
 
 
-modif on otherFeature
+modif on otherFeat
